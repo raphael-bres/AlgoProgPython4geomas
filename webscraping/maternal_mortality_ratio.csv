@@ -1,0 +1,187 @@
+rank,country,maternal_mortality_ratio,date_of_information
+1,South Sudan,1223,2020 est.
+2,Chad,1063,2020 est.
+3,Nigeria,1047,2020 est.
+4,Central African Republic,835,2020 est.
+5,Guinea-Bissau,725,2020 est.
+6,Liberia,652,2020 est.
+7,Somalia,621,2020 est.
+8,Afghanistan,620,2020 est.
+9,Lesotho,566,2020 est.
+10,Guinea,553,2020 est.
+11,"Congo, Democratic Republic of the",547,2020 est.
+12,Kenya,530,2020 est.
+13,Benin,523,2020 est.
+14,Burundi,494,2020 est.
+15,Cote d'Ivoire,480,2020 est.
+16,Mauritania,465,2020 est.
+17,"Gambia, The",458,2020 est.
+18,Sierra Leone,443,2020 est.
+19,Niger,441,2020 est.
+20,Mali,440,2020 est.
+21,Cameroon,438,2020 est.
+22,Eswatini,437,2017 est.
+23,Togo,399,2020 est.
+24,Madagascar,392,2020 est.
+25,Malawi,381,2020 est.
+26,Zimbabwe,357,2020 est.
+27,Haiti,350,2020 est.
+28,Eritrea,322,2020 est.
+29,Uganda,284,2020 est.
+30,"Congo, Republic of the",282,2020 est.
+31,Sudan,270,2020 est.
+32,Ethiopia,267,2020 est.
+33,Burkina Faso,264,2020 est.
+34,Ghana,263,2020 est.
+35,Senegal,261,2020 est.
+36,Venezuela,259,2020 est.
+37,Rwanda,259,2020 est.
+38,Tanzania,238,2020 est.
+39,Djibouti,234,2020 est.
+40,Gabon,227,2020 est.
+41,Angola,222,2020 est.
+42,Cambodia,218,2020 est.
+43,Comoros,217,2020 est.
+44,Namibia,215,2020 est.
+45,Equatorial Guinea,212,2020 est.
+46,Timor-Leste,204,2020 est.
+47,Papua New Guinea,192,2020 est.
+48,Botswana,186,2020 est.
+49,Yemen,183,2020 est.
+50,Burma,179,2020 est.
+51,Nepal,174,2020 est.
+52,Indonesia,173,2020 est.
+53,Bolivia,161,2020 est.
+54,Pakistan,154,2020 est.
+55,Sao Tome and Principe,146,2020 est.
+56,Zambia,135,2020 est.
+57,Belize,130,2020 est.
+58,Mozambique,127,2020 est.
+59,South Africa,127,2020 est.
+60,Laos,126,2020 est.
+61,Tonga,126,2020 est.
+62,Vietnam,124,2020 est.
+63,Bangladesh,123,2020 est.
+64,Solomon Islands,122,2020 est.
+65,Guyana,112,2020 est.
+66,"Korea, North",107,2020 est.
+67,Dominican Republic,107,2020 est.
+68,India,103,2020 est.
+69,Jamaica,99,2020 est.
+70,Guatemala,96,2020 est.
+71,Suriname,96,2020 est.
+72,Vanuatu,94,2020 est.
+73,Mauritius,84,2020 est.
+74,Nicaragua,78,2020 est.
+75,Philippines,78,2020 est.
+76,Algeria,78,2020 est.
+77,"Bahamas, The",77,2020 est.
+78,Iraq,76,2020 est.
+79,Kiribati,76,2020 est.
+80,Colombia,75,2020 est.
+81,"Micronesia, Federated States of",74,2020 est.
+82,Saint Lucia,73,2020 est.
+83,Morocco,72,2020 est.
+84,Libya,72,2020 est.
+85,Honduras,72,2020 est.
+86,Brazil,72,2020 est.
+87,Paraguay,71,2020 est.
+88,Peru,69,2020 est.
+89,Cyprus,68,2020 est.
+90,Ecuador,66,2020 est.
+91,Saint Vincent and the Grenadines,62,2020 est.
+92,Bhutan,60,2020 est.
+93,Samoa,59,2020 est.
+94,Mexico,59,2020 est.
+95,Maldives,57,2020 est.
+96,Panama,50,2020 est.
+97,Kyrgyzstan,50,2020 est.
+98,Argentina,45,2020 est.
+99,Brunei,44,2020 est.
+100,El Salvador,43,2020 est.
+101,Cabo Verde,42,2020 est.
+102,Azerbaijan,41,2020 est.
+103,Jordan,41,2020 est.
+104,Mongolia,39,2020 est.
+105,Cuba,39,2020 est.
+106,Barbados,39,2020 est.
+107,Fiji,38,2020 est.
+108,Tunisia,37,2020 est.
+109,Puerto Rico,34,2020 est.
+110,Uzbekistan,30,2020 est.
+111,Syria,30,2020 est.
+112,Sri Lanka,29,2020 est.
+113,Thailand,29,2020 est.
+114,Georgia,28,2020 est.
+115,Trinidad and Tobago,27,2020 est.
+116,Armenia,27,2020 est.
+117,China,23,2020 est.
+118,Costa Rica,22,2020 est.
+119,Iran,22,2020 est.
+120,Antigua and Barbuda,21,2020 est.
+121,Grenada,21,2020 est.
+122,United States,21,2020 est.
+123,Lebanon,21,2020 est.
+124,Malaysia,21,2020 est.
+125,West Bank,20,2020 est.
+126,Gaza Strip,20,2020 est.
+127,Uruguay,19,2020 est.
+128,Latvia,18,2020 est.
+129,Egypt,17,2020 est.
+130,Turkey (Turkiye),17,2020 est.
+131,Tajikistan,17,2020 est.
+132,Oman,17,2020 est.
+133,Ukraine,17,2020 est.
+134,Saudi Arabia,16,2020 est.
+135,Bahrain,16,2020 est.
+136,Chile,15,2020 est.
+137,Hungary,15,2020 est.
+138,Russia,14,2020 est.
+139,Kazakhstan,13,2020 est.
+140,Moldova,12,2020 est.
+141,Portugal,12,2020 est.
+142,Canada,11,2020 est.
+143,Serbia,10,2020 est.
+144,Romania,10,2020 est.
+145,United Kingdom,10,2020 est.
+146,Lithuania,9,2020 est.
+147,United Arab Emirates,9,2020 est.
+148,Qatar,8,2020 est.
+149,Greece,8,2020 est.
+150,France,8,2020 est.
+151,Albania,8,2020 est.
+152,Finland,8,2020 est.
+153,"Korea, South",8,2020 est.
+154,Switzerland,7,2020 est.
+155,Kuwait,7,2020 est.
+156,New Zealand,7,2020 est.
+157,Singapore,7,2020 est.
+158,Bulgaria,7,2020 est.
+159,Luxembourg,6,2020 est.
+160,Bosnia and Herzegovina,6,2020 est.
+161,Montenegro,6,2020 est.
+162,Turkmenistan,5,2020 est.
+163,Ireland,5,2020 est.
+164,Estonia,5,2020 est.
+165,Italy,5,2020 est.
+166,Belgium,5,2020 est.
+167,Denmark,5,2020 est.
+168,Austria,5,2020 est.
+169,Croatia,5,2020 est.
+170,Sweden,5,2020 est.
+171,Slovakia,5,2020 est.
+172,Slovenia,5,2020 est.
+173,Japan,4,2020 est.
+174,Netherlands,4,2020 est.
+175,Germany,4,2020 est.
+176,Australia,3,2020 est.
+177,Spain,3,2020 est.
+178,Israel,3,2020 est.
+179,North Macedonia,3,2020 est.
+180,Iceland,3,2020 est.
+181,Malta,3,2020 est.
+182,Czechia,3,2020 est.
+183,Seychelles,3,2020 est.
+184,Poland,2,2020 est.
+185,Norway,2,2020 est.
+186,Belarus,1,2020 est.

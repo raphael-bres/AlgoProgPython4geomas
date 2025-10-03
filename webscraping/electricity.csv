@@ -1,0 +1,212 @@
+rank,country,electricity,date_of_information
+1,China,2594000000,2022 est.
+2,United States,1201000000,2022 est.
+3,India,487407000,2022 est.
+4,Japan,349940000,2022 est.
+5,Russia,301123000,2022 est.
+6,Germany,261086000,2022 est.
+7,Brazil,220319000,2022 est.
+8,Canada,158973000,2022 est.
+9,France,148914000,2022 est.
+10,"Korea, South",146539000,2022 est.
+11,Italy,123327000,2022 est.
+12,Spain,118141000,2022 est.
+13,United Kingdom,111020000,2022 est.
+14,Mexico,104318000,2022 est.
+15,Turkey (Turkiye),103817000,2022 est.
+16,Australia,101350000,2022 est.
+17,Vietnam,85040000,2022 est.
+18,Iran,80740000,2022 est.
+19,Saudi Arabia,80110000,2022 est.
+20,Indonesia,69706000,2022 est.
+21,South Africa,63411000,2022 est.
+22,Taiwan,61944000,2022 est.
+23,Egypt,59248000,2022 est.
+24,Poland,58719000,2022 est.
+25,Ukraine,58531000,2022 est.
+26,Thailand,57216000,2022 est.
+27,Netherlands,57194000,2022 est.
+28,Sweden,52706000,2022 est.
+29,Argentina,46820000,2022 est.
+30,Pakistan,43478000,2022 est.
+31,Norway,40540000,2022 est.
+32,United Arab Emirates,39915000,2022 est.
+33,Malaysia,36301000,2022 est.
+34,Chile,35598000,2022 est.
+35,Venezuela,34742000,2022 est.
+36,Iraq,31339000,2022 est.
+37,Austria,29810000,2022 est.
+38,Philippines,27542000,2022 est.
+39,Belgium,26310000,2022 est.
+40,Kazakhstan,26033000,2022 est.
+41,Finland,24784000,2022 est.
+42,Switzerland,24014000,2022 est.
+43,Portugal,23316000,2022 est.
+44,Bangladesh,22449000,2022 est.
+45,Greece,22336000,2022 est.
+46,Israel,22207000,2022 est.
+47,Czechia,21914000,2022 est.
+48,Algeria,21706000,2022 est.
+49,Kuwait,20250000,2022 est.
+50,Denmark,19503000,2022 est.
+51,Romania,19126000,2022 est.
+52,Colombia,18896000,2022 est.
+53,Uzbekistan,16926000,2022 est.
+54,Peru,15504000,2022 est.
+55,Morocco,14237000,2022 est.
+56,Hong Kong,13388000,2022 est.
+57,Singapore,12538000,2022 est.
+58,Laos,12222000,2022 est.
+59,Bulgaria,12031000,2022 est.
+60,Hungary,11995000,2022 est.
+61,Nigeria,11697000,2022 est.
+62,Ireland,11530000,2022 est.
+63,Belarus,11508000,2022 est.
+64,Qatar,11414000,2022 est.
+65,Libya,10517000,2022 est.
+66,New Zealand,10412000,2022 est.
+67,Syria,10124000,2022 est.
+68,Oman,9129000,2022 est.
+69,Paraguay,8833000,2022 est.
+70,Ecuador,8377000,2022 est.
+71,"Korea, North",8277000,2022 est.
+72,Serbia,8075000,2022 est.
+73,Slovakia,8029000,2022 est.
+74,Azerbaijan,7710000,2022 est.
+75,Cuba,7667000,2022 est.
+76,Angola,7588000,2022 est.
+77,Burma,6993000,2022 est.
+78,Bahrain,6983000,2022 est.
+79,Jordan,6805000,2022 est.
+80,Puerto Rico,6601000,2022 est.
+81,Tunisia,6328000,2022 est.
+82,Tajikistan,5993000,2022 est.
+83,Ethiopia,5730000,2022 est.
+84,Dominican Republic,5573000,2022 est.
+85,Ghana,5444000,2022 est.
+86,Croatia,5417000,2022 est.
+87,Uruguay,5360000,2022 est.
+88,Guatemala,5210000,2022 est.
+89,Turkmenistan,5202000,2022 est.
+90,Sri Lanka,5040000,2022 est.
+91,Bosnia and Herzegovina,4591000,2022 est.
+92,Panama,4434000,2022 est.
+93,Kyrgyzstan,4408000,2022 est.
+94,Slovenia,4322000,2022 est.
+95,Lithuania,4258000,2022 est.
+96,Lebanon,4141000,2022 est.
+97,Georgia,4128000,2022 est.
+98,Bolivia,4104000,2022 est.
+99,Comoros,4036000,2022 est.
+100,Armenia,3893000,2022 est.
+101,Zambia,3863000,2022 est.
+102,Sudan,3815000,2022 est.
+103,Kenya,3746000,2022 est.
+104,Costa Rica,3692000,2022 est.
+105,Latvia,3233000,2022 est.
+106,Cambodia,3204000,2022 est.
+107,Honduras,3195000,2022 est.
+108,Iceland,3006000,2022 est.
+109,"Congo, Democratic Republic of the",2904000,2022 est.
+110,Estonia,2871000,2022 est.
+111,El Salvador,2853000,2022 est.
+112,Mozambique,2770000,2022 est.
+113,Albania,2635000,2022 est.
+114,Trinidad and Tobago,2522000,2022 est.
+115,Zimbabwe,2487000,2022 est.
+116,Uganda,2436000,2022 est.
+117,Nepal,2389000,2022 est.
+118,Bhutan,2342000,2022 est.
+119,Cote d'Ivoire,2282000,2022 est.
+120,North Macedonia,2153000,2022 est.
+121,Cyprus,2145000,2022 est.
+122,Luxembourg,2002000,2022 est.
+123,Nicaragua,1841000,2022 est.
+124,Yemen,1776000,2022 est.
+125,Cameroon,1763000,2022 est.
+126,Tanzania,1677000,2022 est.
+127,Senegal,1668000,2022 est.
+128,Mongolia,1610000,2022 est.
+129,Kosovo,1547000,2022 est.
+130,Brunei,1265000,2022 est.
+131,Papua New Guinea,1263000,2022 est.
+132,Jamaica,1222000,2022 est.
+133,Guinea,1191000,2022 est.
+134,Mali,1145000,2022 est.
+135,New Caledonia,1069000,2022 est.
+136,Montenegro,1066000,2022 est.
+137,Mauritius,956000,2022 est.
+138,"Congo, Republic of the",842000,2022 est.
+139,Malta,805000,2022 est.
+140,Gabon,784000,2022 est.
+141,Malawi,758000,2022 est.
+142,Botswana,738000,2022 est.
+143,Mauritania,675000,2022 est.
+144,Madagascar,663000,2022 est.
+145,Namibia,646000,2022 est.
+146,Afghanistan,627000,2022 est.
+147,Moldova,625000,2022 est.
+148,"Bahamas, The",578000,2022 est.
+149,Maldives,566000,2022 est.
+150,Suriname,537000,2022 est.
+151,Guam,525000,2022 est.
+152,Benin,500000,2022 est.
+153,Haiti,471000,2022 est.
+154,Burkina Faso,449000,2022 est.
+155,Macau,437000,2022 est.
+156,Fiji,413000,2022 est.
+157,Guyana,385000,2022 est.
+158,Niger,359000,2022 est.
+159,West Bank,352000,2022 est.
+160,Gaza Strip,352000,2022 est.
+161,Equatorial Guinea,349000,2022 est.
+162,Barbados,340000,2022 est.
+163,Virgin Islands,326000,2022 est.
+164,Togo,309000,2022 est.
+165,Aruba,304000,2022 est.
+166,Eswatini,287000,2022 est.
+167,Timor-Leste,283000,2022 est.
+168,French Polynesia,280000,2022 est.
+169,Rwanda,273000,2022 est.
+170,Eritrea,219000,2022 est.
+171,Belize,217000,2022 est.
+172,Cabo Verde,204000,2022 est.
+173,Liberia,197000,2022 est.
+174,Greenland,188000,2022 est.
+175,Faroe Islands,178000,2022 est.
+176,Cayman Islands,175000,2022 est.
+177,Bermuda,173000,2022 est.
+178,Seychelles,158000,2022 est.
+179,Djibouti,150000,2022 est.
+180,"Gambia, The",140000,2022 est.
+181,Sierra Leone,138000,2022 est.
+182,South Sudan,134000,2022 est.
+183,Somalia,131000,2022 est.
+184,Burundi,114000,2022 est.
+185,Antigua and Barbuda,97000,2022 est.
+186,Saint Lucia,92000,2022 est.
+187,Turks and Caicos Islands,91000,2022 est.
+188,Chad,90000,2022 est.
+189,Lesotho,75000,2022 est.
+190,Saint Kitts and Nevis,72000,2022 est.
+191,Grenada,56000,2022 est.
+192,Saint Vincent and the Grenadines,54000,2022 est.
+193,Samoa,53000,2022 est.
+194,American Samoa,48000,2022 est.
+195,British Virgin Islands,47000,2022 est.
+196,Gibraltar,43000,2022 est.
+197,Dominica,42000,2022 est.
+198,Vanuatu,38000,2022 est.
+199,Central African Republic,38000,2022 est.
+200,Solomon Islands,37000,2022 est.
+201,Tonga,33000,2022 est.
+202,Sao Tome and Principe,30000,2022 est.
+203,Guinea-Bissau,28000,2022 est.
+204,Saint Pierre and Miquelon,26000,2022 est.
+205,Nauru,19000,2022 est.
+206,Cook Islands,17000,2022 est.
+207,Kiribati,11000,2022 est.
+208,Falkland Islands (Islas Malvinas),10000,2022 est.
+209,"Saint Helena, Ascension, and Tristan da Cunha",8000,2022 est.
+210,Montserrat,6000,2022 est.
+211,Niue,3000,2022 est.

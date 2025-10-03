@@ -1,0 +1,221 @@
+rank,country,real_gdp_growth_rate,date_of_information
+1,Macau,80.53,2023 est.
+2,Guyana,33.02,2023 est.
+3,Falkland Islands (Islas Malvinas),25.5,2015 est.
+4,Monaco,11.1,2022 est.
+5,Cook Islands,10.5,2022 est.
+6,Aruba,10.46,2022 est.
+7,Armenia,8.7,2023 est.
+8,"Congo, Democratic Republic of the",8.56,2023 est.
+9,San Marino,8.46,2021 est.
+10,Tajikistan,8.3,2023 est.
+11,Rwanda,8.24,2023 est.
+12,Fiji,8.03,2023 est.
+13,Samoa,7.99,2023 est.
+14,Curacao,7.9,2022 est.
+15,Guernsey,7.81,2022 est.
+16,Jersey,7.81,2022 est.
+17,India,7.58,2023 est.
+18,Georgia,7.47,2023 est.
+19,Panama,7.32,2023 est.
+20,Guinea,7.06,2023 est.
+21,Mongolia,7.02,2023 est.
+22,Mauritius,6.95,2023 est.
+23,Djibouti,6.68,2023 est.
+24,Cote d'Ivoire,6.54,2023 est.
+25,Ethiopia,6.5,2023 est.
+26,Bermuda,6.43,2022 est.
+27,Togo,6.41,2023 est.
+28,Benin,6.35,2023 est.
+29,Turkmenistan,6.3,2023 est.
+30,Kyrgyzstan,6.15,2023 est.
+31,Saint Vincent and the Grenadines,6.02,2023 est.
+32,Uzbekistan,5.99,2023 est.
+33,Montenegro,5.98,2023 est.
+34,Zambia,5.83,2023 est.
+35,Bangladesh,5.78,2023 est.
+36,Malta,5.61,2023 est.
+37,Philippines,5.55,2023 est.
+38,Kenya,5.43,2023 est.
+39,Faroe Islands,5.4,2022 est.
+40,Cambodia,5.4,2023 est.
+41,Ukraine,5.3,2023 est.
+42,"Gambia, The",5.3,2023 est.
+43,Mali,5.24,2023 est.
+44,Uganda,5.23,2023 est.
+45,Bhutan,5.21,2022 est.
+46,China,5.2,2023 est.
+47,Tanzania,5.19,2023 est.
+48,Cayman Islands,5.16,2022 est.
+49,Cabo Verde,5.15,2023 est.
+50,Costa Rica,5.11,2023 est.
+51,Kazakhstan,5.1,2023 est.
+52,Guam,5.1,2022 est.
+53,Indonesia,5.05,2023 est.
+54,Vietnam,5.05,2023 est.
+55,Mozambique,5,2023 est.
+56,Eritrea,5,2017 est.
+57,Zimbabwe,4.96,2023 est.
+58,Iran,4.95,2023 est.
+59,Saint Martin,4.9,2021 est.
+60,Eswatini,4.84,2023 est.
+61,Grenada,4.81,2023 est.
+62,Dominica,4.71,2023 est.
+63,Paraguay,4.71,2023 est.
+64,Liberia,4.71,2023 est.
+65,Nicaragua,4.57,2023 est.
+66,Belize,4.54,2023 est.
+67,Turkey (Turkiye),4.52,2023 est.
+68,Barbados,4.52,2023 est.
+69,French Polynesia,4.47,2022 est.
+70,Kiribati,4.29,2023 est.
+71,Guinea-Bissau,4.25,2023 est.
+72,Qatar,4.21,2022 est.
+73,Namibia,4.16,2023 est.
+74,Chad,4.12,2023 est.
+75,Algeria,4.1,2023 est.
+76,Iceland,4.06,2023 est.
+77,Madagascar,3.99,2023 est.
+78,Cameroon,3.99,2023 est.
+79,Maldives,3.97,2023 est.
+80,Belarus,3.89,2023 est.
+81,Antigua and Barbuda,3.86,2023 est.
+82,Tuvalu,3.85,2023 est.
+83,Isle of Man,3.84,2021 est.
+84,Egypt,3.76,2023 est.
+85,Laos,3.75,2023 est.
+86,Senegal,3.7,2023 est.
+87,Malaysia,3.68,2023 est.
+88,Russia,3.6,2023 est.
+89,Honduras,3.58,2023 est.
+90,El Salvador,3.51,2023 est.
+91,New Caledonia,3.5,2022 est.
+92,Guatemala,3.48,2023 est.
+93,Albania,3.44,2023 est.
+94,Saint Kitts and Nevis,3.43,2023 est.
+95,Sierra Leone,3.43,2023 est.
+96,United Arab Emirates,3.4,2023 est.
+97,Sint Maarten,3.4,2023 est.
+98,Mauritania,3.38,2023 est.
+99,Kosovo,3.34,2023 est.
+100,Mexico,3.23,2023 est.
+101,Marshall Islands,3.23,2023 est.
+102,Hong Kong,3.22,2023 est.
+103,Saint Lucia,3.19,2023 est.
+104,Morocco,3.18,2023 est.
+105,Seychelles,3.16,2023 est.
+106,Somalia,3.1,2023 est.
+107,Croatia,3.06,2023 est.
+108,Australia,3.02,2023 est.
+109,Burkina Faso,2.96,2023 est.
+110,Solomon Islands,2.95,2023 est.
+111,Ghana,2.94,2023 est.
+112,Brazil,2.91,2023 est.
+113,Nigeria,2.86,2023 est.
+114,Virgin Islands,2.85,2021 est.
+115,Botswana,2.73,2023 est.
+116,Taiwan,2.71,2019 est.
+117,Comoros,2.7,2023 est.
+118,Burundi,2.7,2023 est.
+119,Papua New Guinea,2.68,2023 est.
+120,"Bahamas, The",2.64,2023 est.
+121,Jordan,2.62,2023 est.
+122,United States,2.54,2023 est.
+123,Serbia,2.53,2023 est.
+124,Spain,2.5,2023 est.
+125,Niger,2.5,2023 est.
+126,Bahrain,2.48,2023 est.
+127,Cyprus,2.47,2023 est.
+128,Bolivia,2.44,2023 est.
+129,Dominican Republic,2.36,2023 est.
+130,Ecuador,2.36,2023 est.
+131,Gabon,2.26,2023 est.
+132,Portugal,2.26,2023 est.
+133,Vanuatu,2.21,2023 est.
+134,Jamaica,2.2,2023 est.
+135,Romania,2.15,2023 est.
+136,Trinidad and Tobago,2.1,2023 est.
+137,Suriname,2.08,2023 est.
+138,Greece,2.01,2023 est.
+139,Israel,2,2023 est.
+140,British Virgin Islands,2,2017 est.
+141,Nepal,1.95,2023 est.
+142,Japan,1.92,2023 est.
+143,"Congo, Republic of the",1.91,2023 est.
+144,Denmark,1.89,2023 est.
+145,Thailand,1.88,2023 est.
+146,Bulgaria,1.85,2023 est.
+147,Cuba,1.77,2022 est.
+148,American Samoa,1.74,2022 est.
+149,Bosnia and Herzegovina,1.68,2023 est.
+150,Slovakia,1.6,2023 est.
+151,Slovenia,1.59,2023 est.
+152,Malawi,1.54,2023 est.
+153,Andorra,1.44,2023 est.
+154,Brunei,1.41,2023 est.
+155,Belgium,1.37,2023 est.
+156,"Korea, South",1.36,2023 est.
+157,Syria,1.3,2021 est.
+158,Oman,1.3,2023 est.
+159,Greenland,1.29,2021 est.
+160,Turks and Caicos Islands,1.2,2023 est.
+161,Azerbaijan,1.12,2023 est.
+162,Singapore,1.08,2023 est.
+163,Canada,1.07,2023 est.
+164,North Macedonia,1.03,2023 est.
+165,Burma,1,2023 est.
+166,Italy,0.92,2023 est.
+167,Lesotho,0.9,2023 est.
+168,Central African Republic,0.87,2023 est.
+169,Angola,0.86,2023 est.
+170,"Micronesia, Federated States of",0.78,2023 est.
+171,Moldova,0.78,2023 est.
+172,Yemen,0.75,2018 est.
+173,Switzerland,0.72,2023 est.
+174,France,0.7,2023 est.
+175,Nauru,0.7,2023 est.
+176,New Zealand,0.63,2023 est.
+177,Colombia,0.61,2023 est.
+178,South Africa,0.6,2023 est.
+179,Puerto Rico,0.56,2023 est.
+180,Norway,0.51,2023 est.
+181,Palau,0.45,2023 est.
+182,Tunisia,0.42,2023 est.
+183,Uruguay,0.37,2023 est.
+184,Chile,0.22,2023 est.
+185,Poland,0.16,2023 est.
+186,Netherlands,0.12,2023 est.
+187,United Kingdom,0.1,2023 est.
+188,Pakistan,0,2023 est.
+189,Lebanon,-0.15,2023 est.
+190,Sweden,-0.2,2023 est.
+191,Latvia,-0.28,2023 est.
+192,Germany,-0.3,2023 est.
+193,Czechia,-0.31,2023 est.
+194,Lithuania,-0.34,2023 est.
+195,Sao Tome and Principe,-0.47,2023 est.
+196,Peru,-0.55,2023 est.
+197,Saudi Arabia,-0.75,2023 est.
+198,Austria,-0.83,2023 est.
+199,Hungary,-0.91,2023 est.
+200,Finland,-1.04,2023 est.
+201,Luxembourg,-1.1,2023 est.
+202,"Korea, North",-1.1,2015 est.
+203,Argentina,-1.55,2023 est.
+204,Libya,-1.67,2023 est.
+205,Haiti,-1.86,2023 est.
+206,Tonga,-2.01,2022 est.
+207,Kuwait,-2.23,2023 est.
+208,Sri Lanka,-2.3,2023 est.
+209,Iraq,-2.94,2023 est.
+210,Estonia,-3.01,2023 est.
+211,Ireland,-3.2,2023 est.
+212,South Sudan,-5.2,2017 est.
+213,West Bank,-5.51,2023 est.
+214,Gaza Strip,-5.51,2023 est.
+215,Equatorial Guinea,-5.69,2023 est.
+216,Afghanistan,-6.24,2022 est.
+217,Sudan,-12.05,2023 est.
+218,Timor-Leste,-14.36,2023 est.
+219,Venezuela,-19.67,2018 est.
+220,Northern Mariana Islands,-29.68,2020 est.

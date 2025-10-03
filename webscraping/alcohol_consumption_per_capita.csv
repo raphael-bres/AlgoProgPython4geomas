@@ -1,0 +1,190 @@
+rank,country,alcohol_consumption_per_capita,date_of_information
+1,Cook Islands,12.97,2019 est.
+2,Latvia,12.9,2019 est.
+3,Czechia,12.73,2019 est.
+4,Lithuania,11.93,2019 est.
+5,Austria,11.9,2019 est.
+6,Antigua and Barbuda,11.88,2019 est.
+7,Estonia,11.65,2019 est.
+8,France,11.44,2019 est.
+9,Bulgaria,11.18,2019 est.
+10,Slovenia,11.05,2019 est.
+11,Luxembourg,11,2019 est.
+12,Andorra,10.99,2019 est.
+13,Poland,10.96,2019 est.
+14,Romania,10.96,2019 est.
+15,Ireland,10.91,2019 est.
+16,Hungary,10.79,2019 est.
+17,Spain,10.72,2019 est.
+18,Belarus,10.57,2019 est.
+19,Germany,10.56,2019 est.
+20,Portugal,10.37,2019 est.
+21,Slovakia,10.3,2019 est.
+22,Barbados,9.94,2019 est.
+23,Montenegro,9.91,2019 est.
+24,United Kingdom,9.8,2019 est.
+25,Croatia,9.64,2019 est.
+26,Cyprus,9.59,2019 est.
+27,Australia,9.51,2019 est.
+28,Seychelles,9.48,2019 est.
+29,"Bahamas, The",9.48,2019 est.
+30,Switzerland,9.41,2019 est.
+31,Saint Lucia,9.3,2019 est.
+32,New Zealand,9.17,2019 est.
+33,Denmark,9.16,2019 est.
+34,Belgium,9.15,2019 est.
+35,United States,8.93,2019 est.
+36,Saint Kitts and Nevis,8.84,2019 est.
+37,Grenada,8.62,2019 est.
+38,Niue,8.5,2019 est.
+39,Japan,8.36,2019 est.
+40,Netherlands,8.23,2019 est.
+41,Finland,8.23,2019 est.
+42,Laos,8.15,2019 est.
+43,Malta,8.07,2019 est.
+44,Canada,8,2019 est.
+45,Argentina,7.95,2019 est.
+46,Tanzania,7.81,2019 est.
+47,Chile,7.8,2019 est.
+48,"Korea, South",7.74,2019 est.
+49,Iceland,7.72,2019 est.
+50,Eswatini,7.68,2019 est.
+51,Italy,7.65,2019 est.
+52,Saint Vincent and the Grenadines,7.48,2019 est.
+53,Georgia,7.45,2019 est.
+54,Moldova,7.45,2019 est.
+55,Serbia,7.45,2019 est.
+56,Russia,7.29,2019 est.
+57,Burkina Faso,7.28,2019 est.
+58,South Africa,7.21,2019 est.
+59,Sweden,7.1,2019 est.
+60,Thailand,6.86,2019 est.
+61,Uganda,6.82,2019 est.
+62,Suriname,6.6,2019 est.
+63,Panama,6.54,2019 est.
+64,Gabon,6.47,2019 est.
+65,Rwanda,6.35,2019 est.
+66,Greece,6.33,2019 est.
+67,Dominica,6.32,2019 est.
+68,Brazil,6.12,2019 est.
+69,Equatorial Guinea,6.11,2019 est.
+70,Norway,6.05,2019 est.
+71,Botswana,5.98,2019 est.
+72,Belize,5.93,2019 est.
+73,Angola,5.84,2019 est.
+74,Trinidad and Tobago,5.81,2019 est.
+75,"Congo, Republic of the",5.74,2019 est.
+76,Peru,5.74,2019 est.
+77,Ukraine,5.69,2019 est.
+78,Dominican Republic,5.56,2019 est.
+79,Paraguay,5.47,2019 est.
+80,Mongolia,5.46,2019 est.
+81,Bosnia and Herzegovina,5.46,2019 est.
+82,Uruguay,5.42,2019 est.
+83,Guyana,5.11,2019 est.
+84,Philippines,4.85,2019 est.
+85,Cuba,4.7,2019 est.
+86,Cabo Verde,4.7,2019 est.
+87,Cambodia,4.56,2019 est.
+88,Nigeria,4.49,2019 est.
+89,China,4.48,2019 est.
+90,Albania,4.4,2019 est.
+91,Mexico,4.25,2019 est.
+92,Sao Tome and Principe,4.23,2019 est.
+93,Colombia,4.09,2019 est.
+94,Cameroon,4.09,2019 est.
+95,Burundi,4.07,2019 est.
+96,Kyrgyzstan,4.02,2019 est.
+97,North Macedonia,3.9,2019 est.
+98,Zambia,3.82,2019 est.
+99,Armenia,3.77,2019 est.
+100,Kazakhstan,3.73,2019 est.
+101,Nicaragua,3.69,2019 est.
+102,"Korea, North",3.61,2019 est.
+103,Lesotho,3.56,2019 est.
+104,Jamaica,3.46,2019 est.
+105,Vietnam,3.41,2019 est.
+106,Mauritius,3.39,2019 est.
+107,Sierra Leone,3.22,2019 est.
+108,Guinea-Bissau,3.21,2019 est.
+109,Liberia,3.12,2019 est.
+110,Zimbabwe,3.11,2019 est.
+111,India,3.09,2019 est.
+112,Israel,3.07,2019 est.
+113,Costa Rica,3.07,2019 est.
+114,Ecuador,3.05,2019 est.
+115,Bolivia,2.98,2019 est.
+116,El Salvador,2.94,2019 est.
+117,Turkmenistan,2.88,2019 est.
+118,Haiti,2.85,2019 est.
+119,Honduras,2.73,2019 est.
+120,Fiji,2.71,2019 est.
+121,"Gambia, The",2.67,2019 est.
+122,Sri Lanka,2.58,2019 est.
+123,Venezuela,2.51,2019 est.
+124,Uzbekistan,2.45,2019 est.
+125,Nauru,2.44,2019 est.
+126,Namibia,2.38,2019 est.
+127,Samoa,2.18,2019 est.
+128,Burma,2.06,2019 est.
+129,Malawi,2.04,2019 est.
+130,United Arab Emirates,2.03,2019 est.
+131,Sudan,1.93,2019 est.
+132,Singapore,1.81,2019 est.
+133,Cote d'Ivoire,1.7,2019 est.
+134,Kenya,1.68,2019 est.
+135,Guatemala,1.63,2019 est.
+136,Vanuatu,1.6,2019 est.
+137,Ghana,1.59,2019 est.
+138,"Micronesia, Federated States of",1.59,2019 est.
+139,Tunisia,1.51,2019 est.
+140,Mozambique,1.46,2019 est.
+141,Togo,1.4,2019 est.
+142,Maldives,1.38,2019 est.
+143,Azerbaijan,1.38,2019 est.
+144,Papua New Guinea,1.26,2019 est.
+145,Benin,1.25,2019 est.
+146,Solomon Islands,1.19,2019 est.
+147,Turkey (Turkiye),1.18,2019 est.
+148,Bahrain,1.18,2019 est.
+149,Ethiopia,1.16,2019 est.
+150,Lebanon,1.14,2019 est.
+151,Qatar,0.96,2019 est.
+152,Central African Republic,0.94,2019 est.
+153,Eritrea,0.93,2019 est.
+154,Tuvalu,0.93,2019 est.
+155,Madagascar,0.89,2019 est.
+156,Tajikistan,0.85,2019 est.
+157,Brunei,0.69,2019 est.
+158,Malaysia,0.64,2019 est.
+159,Mali,0.6,2019 est.
+160,Algeria,0.59,2019 est.
+161,"Congo, Democratic Republic of the",0.56,2019 est.
+162,Chad,0.55,2019 est.
+163,Morocco,0.51,2019 est.
+164,Oman,0.47,2019 est.
+165,Kiribati,0.43,2019 est.
+166,Timor-Leste,0.41,2019 est.
+167,Nepal,0.36,2019 est.
+168,Guinea,0.33,2019 est.
+169,Tonga,0.31,2019 est.
+170,Senegal,0.25,2019 est.
+171,Jordan,0.25,2019 est.
+172,Djibouti,0.21,2019 est.
+173,Comoros,0.18,2019 est.
+174,Iraq,0.16,2019 est.
+175,Egypt,0.14,2019 est.
+176,Syria,0.13,2019 est.
+177,Niger,0.11,2019 est.
+178,Indonesia,0.08,2019 est.
+179,Bhutan,0.07,2019 est.
+180,Pakistan,0.04,2019 est.
+181,Iran,0.02,2019 est.
+182,Yemen,0.02,2019 est.
+183,Afghanistan,0.01,2019 est.
+184,Libya,0.01,2019 est.
+185,Saudi Arabia,0,2019 est.
+186,Mauritania,0,2019 est.
+187,Bangladesh,0,2019 est.
+188,Somalia,0,2019 est.
+189,Kuwait,0,2019 est.

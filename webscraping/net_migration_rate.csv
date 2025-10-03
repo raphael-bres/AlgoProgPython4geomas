@@ -1,0 +1,231 @@
+rank,country,net_migration_rate,date_of_information
+1,Ukraine,36.5,2024 est.
+2,South Sudan,19.1,2024 est.
+3,Venezuela,13.2,2024 est.
+4,British Virgin Islands,12.9,2024 est.
+5,Cayman Islands,12.1,2024 est.
+6,Equatorial Guinea,12.1,2024 est.
+7,Monaco,11.7,2024 est.
+8,Luxembourg,10.8,2024 est.
+9,Anguilla,10.3,2024 est.
+10,Turks and Caicos Islands,8.3,2024 est.
+11,Aruba,8,2024 est.
+12,Saudi Arabia,6.7,2024 est.
+13,Cyprus,6.3,2024 est.
+14,Switzerland,5.9,2024 est.
+15,Australia,5.9,2024 est.
+16,Sint Maarten,5.7,2024 est.
+17,Ireland,5.6,2024 est.
+18,San Marino,5.6,2024 est.
+19,Canada,5.3,2024 est.
+20,Liechtenstein,4.7,2024 est.
+21,Malta,4.4,2024 est.
+22,Isle of Man,4.3,2024 est.
+23,Djibouti,4.2,2024 est.
+24,Singapore,4.2,2024 est.
+25,Spain,4.1,2024 est.
+26,Sweden,4,2024 est.
+27,Belgium,4,2024 est.
+28,Norway,3.9,2024 est.
+29,New Zealand,3.8,2024 est.
+30,New Caledonia,3.6,2024 est.
+31,Gabon,3.5,2024 est.
+32,Austria,3.5,2024 est.
+33,Italy,3.4,2024 est.
+34,"Bahamas, The",3.2,2024 est.
+35,Macau,3.1,2024 est.
+36,Panama,3,2024 est.
+37,Netherlands,3,2024 est.
+38,United States,3,2024 est.
+39,United Kingdom,2.9,2024 est.
+40,Czechia,2.7,2024 est.
+41,Denmark,2.7,2024 est.
+42,Botswana,2.7,2024 est.
+43,"Korea, South",2.6,2024 est.
+44,Hungary,2.5,2024 est.
+45,Iceland,2.5,2024 est.
+46,Suriname,2.5,2024 est.
+47,Finland,2.2,2024 est.
+48,Brunei,2.1,2024 est.
+49,Antigua and Barbuda,2,2024 est.
+50,Belize,2,2024 est.
+51,Israel,1.9,2024 est.
+52,Costa Rica,1.9,2024 est.
+53,Germany,1.8,2024 est.
+54,Hong Kong,1.6,2024 est.
+55,Guernsey,1.6,2024 est.
+56,Portugal,1.5,2024 est.
+57,Malaysia,1.5,2024 est.
+58,Slovenia,1.5,2024 est.
+59,Bermuda,1.4,2024 est.
+60,Sierra Leone,1.4,2024 est.
+61,Jersey,1.2,2024 est.
+62,Cote d'Ivoire,1.1,2024 est.
+63,Greece,1.1,2024 est.
+64,Saint Kitts and Nevis,1.1,2024 est.
+65,France,1.1,2024 est.
+66,Taiwan,1.1,2024 est.
+67,Belarus,0.8,2024 est.
+68,Russia,0.8,2024 est.
+69,Seychelles,0.8,2024 est.
+70,Japan,0.7,2024 est.
+71,Palau,0.7,2024 est.
+72,North Macedonia,0.4,2024 est.
+73,Slovakia,0.4,2024 est.
+74,Chile,0.3,2024 est.
+75,Benin,0.2,2024 est.
+76,Zambia,0.1,2024 est.
+77,India,0.1,2024 est.
+78,Mauritius,0,2024 est.
+79,Andorra,0,2024 est.
+80,"Gambia, The",0,2024 est.
+81,Moldova,0,2024 est.
+82,Serbia,0,2024 est.
+83,Montserrat,0,2024 est.
+84,Iraq,0,2024 est.
+85,Madagascar,0,2024 est.
+86,Croatia,0,2024 est.
+87,Namibia,0,2024 est.
+88,Malawi,0,2024 est.
+89,Guinea,0,2024 est.
+90,"Saint Helena, Ascension, and Tristan da Cunha",0,2024 est.
+91,"Korea, North",0,2024 est.
+92,Bhutan,0,2024 est.
+93,Faroe Islands,0,2024 est.
+94,Papua New Guinea,0,2024 est.
+95,Paraguay,-0.1,2024 est.
+96,Ethiopia,-0.1,2024 est.
+97,"Congo, Republic of the",-0.1,2024 est.
+98,Argentina,-0.1,2024 est.
+99,Afghanistan,-0.1,2024 est.
+100,China,-0.1,2024 est.
+101,Chad,-0.1,2024 est.
+102,Kenya,-0.2,2024 est.
+103,Brazil,-0.2,2024 est.
+104,South Africa,-0.2,2024 est.
+105,Angola,-0.2,2024 est.
+106,Vietnam,-0.2,2024 est.
+107,Ghana,-0.2,2024 est.
+108,Yemen,-0.2,2024 est.
+109,Philippines,-0.2,2024 est.
+110,Nigeria,-0.2,2024 est.
+111,Bulgaria,-0.3,2024 est.
+112,Barbados,-0.3,2024 est.
+113,Iran,-0.3,2024 est.
+114,Cameroon,-0.3,2024 est.
+115,Egypt,-0.3,2024 est.
+116,Thailand,-0.3,2024 est.
+117,Kazakhstan,-0.4,2024 est.
+118,Bosnia and Herzegovina,-0.4,2024 est.
+119,Kosovo,-0.4,2024 est.
+120,Tanzania,-0.4,2024 est.
+121,Oman,-0.5,2024 est.
+122,Algeria,-0.5,2024 est.
+123,Burkina Faso,-0.6,2024 est.
+124,Cabo Verde,-0.6,2024 est.
+125,Niger,-0.6,2024 est.
+126,French Polynesia,-0.6,2024 est.
+127,"Congo, Democratic Republic of the",-0.6,2024 est.
+128,Saint Lucia,-0.6,2024 est.
+129,Azerbaijan,-0.6,2024 est.
+130,Paracel Islands,-0.66,2021 est.
+131,Mexico,-0.7,2024 est.
+132,Indonesia,-0.7,2024 est.
+133,Mauritania,-0.7,2024 est.
+134,Senegal,-0.7,2024 est.
+135,Qatar,-0.7,2024 est.
+136,Somalia,-0.7,2024 est.
+137,Burundi,-0.7,2024 est.
+138,Mongolia,-0.8,2024 est.
+139,Liberia,-0.8,2024 est.
+140,Uruguay,-0.9,2024 est.
+141,Lebanon,-0.9,2024 est.
+142,Trinidad and Tobago,-0.9,2024 est.
+143,Bolivia,-1,2024 est.
+144,Saint Barthelemy,-1,2024 est.
+145,Laos,-1,2024 est.
+146,Peru,-1,2024 est.
+147,Syria,-1.1,2024 est.
+148,Pakistan,-1.1,2024 est.
+149,Uzbekistan,-1.1,2024 est.
+150,Ecuador,-1.1,2024 est.
+151,Bahrain,-1.2,2024 est.
+152,Curacao,-1.3,2024 est.
+153,Vanuatu,-1.3,2024 est.
+154,Tunisia,-1.3,2024 est.
+155,Burma,-1.4,2024 est.
+156,Turkey (Turkiye),-1.5,2024 est.
+157,Solomon Islands,-1.5,2024 est.
+158,Mozambique,-1.5,2024 est.
+159,Sudan,-1.6,2024 est.
+160,Haiti,-1.6,2024 est.
+161,Guatemala,-1.6,2024 est.
+162,Turkmenistan,-1.7,2024 est.
+163,Morocco,-1.7,2024 est.
+164,Togo,-1.7,2024 est.
+165,Honduras,-1.7,2024 est.
+166,Nicaragua,-1.8,2024 est.
+167,Tajikistan,-2,2024 est.
+168,Colombia,-2.1,2024 est.
+169,Cuba,-2.1,2024 est.
+170,Comoros,-2.2,2024 est.
+171,Grenada,-2.2,2024 est.
+172,Libya,-2.5,2024 est.
+173,Cambodia,-2.6,2024 est.
+174,Estonia,-2.7,2024 est.
+175,Dominican Republic,-2.7,2024 est.
+176,Kiribati,-2.8,2024 est.
+177,Mali,-2.9,2024 est.
+178,Bangladesh,-2.9,2024 est.
+179,Sri Lanka,-3,2024 est.
+180,Central African Republic,-3.1,2024 est.
+181,United Arab Emirates,-3.1,2024 est.
+182,Rwanda,-3.1,2024 est.
+183,Uganda,-3.1,2024 est.
+184,Zimbabwe,-3.2,2024 est.
+185,Albania,-3.2,2024 est.
+186,Gibraltar,-3.2,2024 est.
+187,Romania,-3.3,2024 est.
+188,Guinea-Bissau,-3.5,2024 est.
+189,Wallis and Futuna,-3.6,2024 est.
+190,Gaza Strip,-3.7,2024 est.
+191,West Bank,-3.8,2024 est.
+192,Timor-Leste,-3.8,2024 est.
+193,Georgia,-3.8,2024 est.
+194,Tokelau,-3.84,2021 est.
+195,Lithuania,-4.1,2024 est.
+196,Kuwait,-4.2,2024 est.
+197,Marshall Islands,-4.3,2024 est.
+198,Nepal,-4.4,2024 est.
+199,Lesotho,-4.5,2024 est.
+200,Kyrgyzstan,-4.8,2024 est.
+201,Latvia,-4.9,2024 est.
+202,Greenland,-4.9,2024 est.
+203,Montenegro,-5,2024 est.
+204,Armenia,-5.2,2024 est.
+205,Dominica,-5.3,2024 est.
+206,Fiji,-5.5,2024 est.
+207,Svalbard,-5.57,2021 est.
+208,Saint Vincent and the Grenadines,-5.8,2024 est.
+209,Eswatini,-6,2024 est.
+210,Poland,-6.2,2024 est.
+211,Saint Martin,-6.2,2024 est.
+212,Tuvalu,-6.3,2024 est.
+213,Sao Tome and Principe,-6.5,2024 est.
+214,Guyana,-6.6,2024 est.
+215,Saint Pierre and Miquelon,-6.8,2024 est.
+216,Samoa,-6.9,2024 est.
+217,Jamaica,-7.1,2024 est.
+218,Virgin Islands,-7.3,2024 est.
+219,El Salvador,-7.7,2024 est.
+220,Eritrea,-8.7,2024 est.
+221,Puerto Rico,-9.6,2024 est.
+222,Nauru,-9.8,2024 est.
+223,Jordan,-10.9,2024 est.
+224,Guam,-10.9,2024 est.
+225,Maldives,-12.8,2024 est.
+226,Northern Mariana Islands,-13.4,2024 est.
+227,Tonga,-18.1,2024 est.
+228,"Micronesia, Federated States of",-21,2024 est.
+229,American Samoa,-24.8,2024 est.
+230,Cook Islands,-25.1,2024 est.

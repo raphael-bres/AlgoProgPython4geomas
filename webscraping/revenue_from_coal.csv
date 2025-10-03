@@ -1,0 +1,187 @@
+rank,country,revenue_from_coal,date_of_information
+1,Mongolia,8.62,2018 est.
+2,Mozambique,4.17,2018 est.
+3,South Africa,2.4,2018 est.
+4,India,1.15,2018 est.
+5,Indonesia,1.06,2018 est.
+6,Kazakhstan,0.99,2018 est.
+7,Australia,0.78,2018 est.
+8,Colombia,0.75,2018 est.
+9,China,0.57,2018 est.
+10,Tajikistan,0.54,2018 est.
+11,Russia,0.53,2018 est.
+12,Afghanistan,0.45,2018 est.
+13,Botswana,0.45,2018 est.
+14,Ukraine,0.42,2018 est.
+15,Zimbabwe,0.4,2018 est.
+16,Vietnam,0.35,2018 est.
+17,Bosnia and Herzegovina,0.34,2018 est.
+18,Kosovo,0.31,2018 est.
+19,Poland,0.27,2018 est.
+20,Serbia,0.25,2018 est.
+21,Kyrgyzstan,0.21,2018 est.
+22,United States,0.2,2018 est.
+23,Czechia,0.14,2018 est.
+24,Bulgaria,0.14,2018 est.
+25,Montenegro,0.12,2018 est.
+26,Eswatini,0.1,2018 est.
+27,Canada,0.08,2018 est.
+28,Philippines,0.07,2018 est.
+29,Pakistan,0.06,2018 est.
+30,Uzbekistan,0.06,2018 est.
+31,Turkey (Turkiye),0.05,2018 est.
+32,Greece,0.04,2018 est.
+33,Zambia,0.04,2018 est.
+34,Niger,0.03,2018 est.
+35,Thailand,0.03,2018 est.
+36,Mexico,0.03,2018 est.
+37,Malawi,0.03,2018 est.
+38,New Zealand,0.03,2018 est.
+39,Romania,0.03,2018 est.
+40,Albania,0.03,2018 est.
+41,Slovenia,0.03,2018 est.
+42,Tanzania,0.02,2018 est.
+43,Bangladesh,0.02,2018 est.
+44,Germany,0.02,2018 est.
+45,Malaysia,0.02,2018 est.
+46,Chile,0.01,2018 est.
+47,Iran,0.01,2017 est.
+48,Slovakia,0.01,2018 est.
+49,Hungary,0.01,2018 est.
+50,Burma,0.01,2018 est.
+51,Brazil,0.01,2018 est.
+52,Georgia,0.01,2018 est.
+53,"Gambia, The",0,2018 est.
+54,Benin,0,2018 est.
+55,Togo,0,2018 est.
+56,Norway,0,2018 est.
+57,United Arab Emirates,0,2018 est.
+58,Barbados,0,2018 est.
+59,Seychelles,0,2018 est.
+60,Cuba,0,2018 est.
+61,Ecuador,0,2018 est.
+62,Djibouti,0,2018 est.
+63,Puerto Rico,0,2018 est.
+64,Bhutan,0,2018 est.
+65,Yemen,0,2018 est.
+66,Saint Lucia,0,2018 est.
+67,Turkmenistan,0,2018 est.
+68,Gabon,0,2018 est.
+69,Bahrain,0,2018 est.
+70,"Congo, Republic of the",0,2018 est.
+71,Central African Republic,0,2018 est.
+72,Argentina,0,2018 est.
+73,Chad,0,2018 est.
+74,Grenada,0,2018 est.
+75,Angola,0,2018 est.
+76,Senegal,0,2018 est.
+77,Mauritius,0,2018 est.
+78,Haiti,0,2018 est.
+79,Maldives,0,2018 est.
+80,Morocco,0,2018 est.
+81,Luxembourg,0,2018 est.
+82,Portugal,0,2018 est.
+83,American Samoa,0,2018 est.
+84,Saudi Arabia,0,2018 est.
+85,Italy,0,2018 est.
+86,Nigeria,0,2018 est.
+87,Cambodia,0,2018 est.
+88,Tonga,0,2018 est.
+89,Greenland,0,2018 est.
+90,"Congo, Democratic Republic of the",0,2018 est.
+91,Guatemala,0,2018 est.
+92,Uganda,0,2018 est.
+93,Finland,0,2018 est.
+94,Jamaica,0,2018 est.
+95,Papua New Guinea,0,2018 est.
+96,Lesotho,0,2018 est.
+97,Libya,0,2018 est.
+98,Nicaragua,0,2018 est.
+99,Tunisia,0,2018 est.
+100,Austria,0,2018 est.
+101,Armenia,0,2018 est.
+102,Guam,0,2018 est.
+103,Trinidad and Tobago,0,2018 est.
+104,Uruguay,0,2018 est.
+105,Saint Vincent and the Grenadines,0,2018 est.
+106,Brunei,0,2018 est.
+107,Belize,0,2018 est.
+108,Denmark,0,2018 est.
+109,Paraguay,0,2018 est.
+110,Sao Tome and Principe,0,2018 est.
+111,Saint Kitts and Nevis,0,2018 est.
+112,Malta,0,2018 est.
+113,Qatar,0,2018 est.
+114,Guinea,0,2018 est.
+115,Mali,0,2018 est.
+116,Curacao,0,2018 est.
+117,Antigua and Barbuda,0,2018 est.
+118,Ethiopia,0,2018 est.
+119,North Macedonia,0,2018 est.
+120,Macau,0,2018 est.
+121,Belarus,0,2018 est.
+122,Panama,0,2018 est.
+123,Azerbaijan,0,2018 est.
+124,Namibia,0,2018 est.
+125,Cabo Verde,0,2018 est.
+126,Burundi,0,2018 est.
+127,Cayman Islands,0,2018 est.
+128,Ireland,0,2018 est.
+129,Croatia,0,2018 est.
+130,Lebanon,0,2018 est.
+131,Singapore,0,2018 est.
+132,Belgium,0,2018 est.
+133,Sierra Leone,0,2018 est.
+134,Latvia,0,2018 est.
+135,Equatorial Guinea,0,2018 est.
+136,Iraq,0,2018 est.
+137,Japan,0,2018 est.
+138,Kuwait,0,2018 est.
+139,Ghana,0,2018 est.
+140,Suriname,0,2018 est.
+141,Lithuania,0,2018 est.
+142,Kenya,0,2018 est.
+143,Timor-Leste,0,2018 est.
+144,Vanuatu,0,2018 est.
+145,Peru,0,2018 est.
+146,Moldova,0,2018 est.
+147,Cyprus,0,2018 est.
+148,"Korea, South",0,2018 est.
+149,Jordan,0,2018 est.
+150,Solomon Islands,0,2018 est.
+151,Liberia,0,2018 est.
+152,Costa Rica,0,2018 est.
+153,Iceland,0,2018 est.
+154,"Bahamas, The",0,2018 est.
+155,Madagascar,0,2018 est.
+156,Estonia,0,2018 est.
+157,Nepal,0,2018 est.
+158,El Salvador,0,2018 est.
+159,Algeria,0,2018 est.
+160,Netherlands,0,2018 est.
+161,Sweden,0,2018 est.
+162,Dominica,0,2018 est.
+163,Spain,0,2018 est.
+164,Switzerland,0,2018 est.
+165,Burkina Faso,0,2018 est.
+166,Cote d'Ivoire,0,2018 est.
+167,Oman,0,2018 est.
+168,Rwanda,0,2018 est.
+169,Kiribati,0,2018 est.
+170,Israel,0,2018 est.
+171,Bolivia,0,2018 est.
+172,Honduras,0,2018 est.
+173,Sudan,0,2018 est.
+174,Mauritania,0,2018 est.
+175,Guyana,0,2018 est.
+176,Dominican Republic,0,2018 est.
+177,Hong Kong,0,2018 est.
+178,Sri Lanka,0,2018 est.
+179,Guinea-Bissau,0,2018 est.
+180,Samoa,0,2018 est.
+181,United Kingdom,0,2018 est.
+182,Comoros,0,2018 est.
+183,Cameroon,0,2018 est.
+184,France,0,2018 est.
+185,Fiji,0,2018 est.
+186,Turks and Caicos Islands,0,2018 est.

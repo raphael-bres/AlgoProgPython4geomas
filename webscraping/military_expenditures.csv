@@ -1,0 +1,167 @@
+rank,country,military_expenditures,date_of_information
+1,Eritrea,10,2019 est.
+2,Algeria,9,2023 est.
+3,Saudi Arabia,7,2023 est.
+4,Syria,6.5,2019 est.
+5,Somalia,6,2021 est.
+6,Oman,5.5,2023 est.
+7,Armenia,5.3,2024 est.
+8,Venezuela,5.2,2019 est.
+9,Russia,5,2023 est.
+10,Kuwait,5,2023 est.
+11,Jordan,4.5,2023 est.
+12,Azerbaijan,4.5,2023 est.
+13,Israel,4.5,2023 est.
+14,Cuba,4.2,2020 est.
+15,Poland,4.1,2024 est.
+16,Morocco,4,2023 est.
+17,Burkina Faso,4,2023 est.
+18,Mali,4,2023 est.
+19,Ukraine,4,2021 est.
+20,Qatar,4,2023 est.
+21,United Arab Emirates,4,2023 est.
+22,Burma,3.9,2023 est.
+23,Burundi,3.7,2023 est.
+24,Djibouti,3.5,2019 est.
+25,United States,3.4,2024 est.
+26,Estonia,3.4,2024 est.
+27,Afghanistan,3.3,2019 est.
+28,Lebanon,3.2,2021 est.
+29,Latvia,3.2,2024 est.
+30,Bahrain,3.1,2023 est.
+31,Greece,3.1,2024 est.
+32,Brunei,3,2023 est.
+33,Iraq,3,2023 est.
+34,Pakistan,3,2023 est.
+35,Singapore,3,2024 est.
+36,Chad,2.9,2023 est.
+37,Colombia,2.9,2023 est.
+38,Lithuania,2.9,2024 est.
+39,Uzbekistan,2.8,2019 est.
+40,Namibia,2.8,2023 est.
+41,"Korea, South",2.7,2023 est.
+42,Botswana,2.6,2023 est.
+43,Taiwan,2.5,2023 est.
+44,South Sudan,2.5,2022 est.
+45,Tunisia,2.5,2023 est.
+46,Mauritania,2.5,2023 est.
+47,Serbia,2.4,2023 est.
+48,Finland,2.4,2024 est.
+49,Denmark,2.4,2024 est.
+50,India,2.3,2023 est.
+51,Romania,2.3,2024 est.
+52,United Kingdom,2.3,2024 est.
+53,Guinea,2.2,2023 est.
+54,Norway,2.2,2024 est.
+55,Togo,2.2,2023 est.
+56,North Macedonia,2.2,2024 est.
+57,Bulgaria,2.2,2024 est.
+58,Hungary,2.1,2024 est.
+59,Sweden,2.1,2024 est.
+60,Turkey (Turkiye),2.1,2024 est.
+61,Cambodia,2.1,2022 est.
+62,Iran,2.1,2023 est.
+63,Czechia,2.1,2024 est.
+64,Netherlands,2.1,2024 est.
+65,France,2.1,2024 est.
+66,Germany,2.1,2024 est.
+67,Niger,2,2023 est.
+68,Albania,2,2024 est.
+69,Slovakia,2,2024 est.
+70,Montenegro,2,2024 est.
+71,"Congo, Republic of the",2,2023 est.
+72,Australia,2,2023 est.
+73,Uganda,2,2023 est.
+74,Ecuador,2,2023 est.
+75,Turkmenistan,1.9,2019 est.
+76,Vietnam,1.8,2023 est.
+77,Croatia,1.8,2024 est.
+78,Central African Republic,1.8,2023 est.
+79,Cyprus,1.8,2023 est.
+80,Georgia,1.7,2023 est.
+81,Eswatini,1.6,2023 est.
+82,Tonga,1.6,2023 est.
+83,Seychelles,1.6,2023 est.
+84,Sri Lanka,1.6,2023 est.
+85,Portugal,1.6,2024 est.
+86,Equatorial Guinea,1.6,2023 est.
+87,Philippines,1.5,2023 est.
+88,Lesotho,1.5,2023 est.
+89,Belarus,1.5,2023 est.
+90,China,1.5,2023 est.
+91,Chile,1.5,2023 est.
+92,Honduras,1.5,2023 est.
+93,Senegal,1.5,2023 est.
+94,Mozambique,1.5,2023 est.
+95,Italy,1.5,2024 est.
+96,Kyrgyzstan,1.5,2022 est.
+97,Rwanda,1.4,2023 est.
+98,Guinea-Bissau,1.4,2023 est.
+99,Zambia,1.4,2023 est.
+100,Canada,1.4,2024 est.
+101,Japan,1.4,2024 est.
+102,Spain,1.3,2024 est.
+103,Tanzania,1.3,2023 est.
+104,Angola,1.3,2023 est.
+105,Thailand,1.3,2023 est.
+106,New Zealand,1.3,2023 est.
+107,Belgium,1.3,2024 est.
+108,Slovenia,1.3,2024 est.
+109,Timor-Leste,1.3,2023 est.
+110,Gabon,1.3,2023 est.
+111,Kosovo,1.3,2023 est.
+112,Luxembourg,1.3,2024 est.
+113,"Congo, Democratic Republic of the",1.2,2023 est.
+114,El Salvador,1.2,2023 est.
+115,Suriname,1.2,2019 est.
+116,Jamaica,1.2,2023 est.
+117,Tajikistan,1.2,2023 est.
+118,Bolivia,1.2,2023 est.
+119,Brazil,1.1,2023 est.
+120,Fiji,1.1,2023 est.
+121,Panama,1.1,2023 est.
+122,Kenya,1,2023 est.
+123,Cameroon,1,2023 est.
+124,Austria,1,2024 est.
+125,Peru,1,2023 est.
+126,Bangladesh,1,2023 est.
+127,Trinidad and Tobago,1,2023 est.
+128,Ethiopia,1,2023 est.
+129,Nepal,1,2023 est.
+130,Uruguay,1,2023 est.
+131,Egypt,1,2023 est.
+132,Sudan,1,2021 est.
+133,Malaysia,0.9,2023 est.
+134,Belize,0.9,2023 est.
+135,Cote d'Ivoire,0.9,2023 est.
+136,Bosnia and Herzegovina,0.8,2023 est.
+137,Indonesia,0.8,2023 est.
+138,Malta,0.8,2023 est.
+139,Argentina,0.8,2024 est.
+140,"Bahamas, The",0.8,2023 est.
+141,Kazakhstan,0.8,2023 est.
+142,Liberia,0.8,2022 est.
+143,Paraguay,0.8,2023 est.
+144,Madagascar,0.7,2023 est.
+145,Switzerland,0.7,2023 est.
+146,South Africa,0.7,2023 est.
+147,Malawi,0.7,2023 est.
+148,Barbados,0.7,2023 est.
+149,Nigeria,0.7,2023 est.
+150,Dominican Republic,0.6,2023 est.
+151,Nicaragua,0.6,2023 est.
+152,Guyana,0.6,2023 est.
+153,Costa Rica,0.6,2023 est.
+154,Mongolia,0.6,2023 est.
+155,"Gambia, The",0.6,2023 est.
+156,Cabo Verde,0.6,2023 est.
+157,Sierra Leone,0.6,2023 est.
+158,Mexico,0.6,2023 est.
+159,Benin,0.5,2023 est.
+160,Moldova,0.5,2023 est.
+161,Guatemala,0.4,2023 est.
+162,Ghana,0.4,2023 est.
+163,Zimbabwe,0.3,2023 est.
+164,Papua New Guinea,0.3,2023 est.
+165,Ireland,0.2,2023 est.
+166,Laos,0.2,2019 est.

@@ -1,0 +1,223 @@
+rank,country,real_gdp_per_capita,date_of_information
+1,Luxembourg,$132400,2023 est.
+2,Singapore,$127500,2023 est.
+3,Monaco,$115700,2015 est.
+4,Ireland,$115600,2023 est.
+5,Qatar,$113200,2022 est.
+6,Macau,$102000,2023 est.
+7,Bermuda,$99800,2022 est.
+8,Norway,$90500,2023 est.
+9,Isle of Man,$84600,2014 est.
+10,Switzerland,$82900,2023 est.
+11,Cayman Islands,$79600,2022 est.
+12,Brunei,$77900,2023 est.
+13,United Arab Emirates,$75600,2023 est.
+14,United States,$73600,2023 est.
+15,Denmark,$72000,2023 est.
+16,Faroe Islands,$71500,2022 est.
+17,Falkland Islands (Islas Malvinas),$70800,2015 est.
+18,Netherlands,$69300,2023 est.
+19,Greenland,$68100,2021 est.
+20,Iceland,$66500,2023 est.
+21,San Marino,$65700,2021 est.
+22,Austria,$64600,2023 est.
+23,Andorra,$64500,2023 est.
+24,Hong Kong,$64400,2023 est.
+25,Sweden,$64200,2023 est.
+26,Belgium,$63600,2023 est.
+27,Germany,$61900,2023 est.
+28,Gibraltar,$61700,2014 est.
+29,Australia,$59500,2023 est.
+30,Bahrain,$57600,2023 est.
+31,Finland,$57500,2023 est.
+32,Malta,$57200,2023 est.
+33,Jersey,$56600,2016 est.
+34,Canada,$55800,2023 est.
+35,France,$55200,2023 est.
+36,United Kingdom,$54100,2023 est.
+37,Italy,$52700,2023 est.
+38,Guernsey,$52500,2014 est.
+39,Kuwait,$50800,2023 est.
+40,Cyprus,$50600,2023 est.
+41,"Korea, South",$50600,2023 est.
+42,Guyana,$49800,2023 est.
+43,Saudi Arabia,$49600,2023 est.
+44,New Zealand,$48800,2023 est.
+45,Israel,$48300,2023 est.
+46,Slovenia,$48100,2023 est.
+47,Taiwan,$47800,2019 est.
+48,Czechia,$47700,2023 est.
+49,Spain,$46400,2023 est.
+50,Sint Maarten,$46400,2023 est.
+51,Japan,$46300,2023 est.
+52,Virgin Islands,$46200,2021 est.
+53,Lithuania,$46200,2023 est.
+54,Poland,$44100,2023 est.
+55,Puerto Rico,$43000,2023 est.
+56,Aruba,$42300,2022 est.
+57,Estonia,$42000,2023 est.
+58,Portugal,$41700,2023 est.
+59,Croatia,$41300,2023 est.
+60,Hungary,$40600,2023 est.
+61,Romania,$40500,2023 est.
+62,Oman,$40000,2023 est.
+63,Russia,$39800,2023 est.
+64,Slovakia,$39300,2023 est.
+65,Latvia,$37800,2023 est.
+66,Greece,$36300,2023 est.
+67,Panama,$35800,2023 est.
+68,New Caledonia,$35700,2021 est.
+69,Guam,$35600,2016 est.
+70,Kazakhstan,$35500,2023 est.
+71,Turkey (Turkiye),$34400,2023 est.
+72,British Virgin Islands,$34200,2017 est.
+73,Malaysia,$33600,2023 est.
+74,Bulgaria,$33300,2023 est.
+75,"Bahamas, The",$32000,2023 est.
+76,Uruguay,$30700,2023 est.
+77,Saint Kitts and Nevis,$30100,2023 est.
+78,Seychelles,$29500,2023 est.
+79,Chile,$29500,2023 est.
+80,Antigua and Barbuda,$28700,2023 est.
+81,Trinidad and Tobago,$28500,2023 est.
+82,Montenegro,$27800,2023 est.
+83,Belarus,$27700,2023 est.
+84,Curacao,$27600,2022 est.
+85,Mauritius,$26600,2023 est.
+86,Argentina,$26500,2023 est.
+87,Costa Rica,$25800,2023 est.
+88,Serbia,$24500,2023 est.
+89,Northern Mariana Islands,$24500,2016 est.
+90,North Macedonia,$23400,2023 est.
+91,Dominican Republic,$23100,2023 est.
+92,Saint Lucia,$22700,2023 est.
+93,Turks and Caicos Islands,$22400,2023 est.
+94,Mexico,$22400,2023 est.
+95,Maldives,$22400,2023 est.
+96,Georgia,$22200,2023 est.
+97,China,$22100,2023 est.
+98,Azerbaijan,$21300,2023 est.
+99,Thailand,$21100,2023 est.
+100,Armenia,$20800,2023 est.
+101,Bosnia and Herzegovina,$19900,2023 est.
+102,Gabon,$19800,2023 est.
+103,Suriname,$19000,2023 est.
+104,Colombia,$18800,2023 est.
+105,Brazil,$18600,2023 est.
+106,French Polynesia,$18600,2021 est.
+107,Albania,$18100,2023 est.
+108,Saint Vincent and the Grenadines,$17900,2023 est.
+109,Libya,$17700,2023 est.
+110,Botswana,$17500,2023 est.
+111,Barbados,$17400,2023 est.
+112,Egypt,$17000,2023 est.
+113,Equatorial Guinea,$16900,2023 est.
+114,Mongolia,$16300,2023 est.
+115,Iran,$16200,2023 est.
+116,Ukraine,$16200,2023 est.
+117,Dominica,$15900,2023 est.
+118,Grenada,$15900,2023 est.
+119,Palau,$15800,2023 est.
+120,Paraguay,$15700,2023 est.
+121,Moldova,$15700,2023 est.
+122,Cook Islands,$15600,2022 est.
+123,Algeria,$15300,2023 est.
+124,Peru,$15100,2023 est.
+125,Turkmenistan,$14700,2022 est.
+126,South Africa,$14300,2023 est.
+127,Ecuador,$14300,2023 est.
+128,Indonesia,$14100,2023 est.
+129,Bhutan,$14000,2022 est.
+130,Vietnam,$13700,2023 est.
+131,Fiji,$13600,2023 est.
+132,Kosovo,$13500,2023 est.
+133,Sri Lanka,$13000,2023 est.
+134,Belize,$12800,2023 est.
+135,Guatemala,$12700,2023 est.
+136,Iraq,$12600,2023 est.
+137,Tunisia,$12300,2023 est.
+138,Cuba,$12300,2016 est.
+139,Lebanon,$12300,2023 est.
+140,Namibia,$11500,2023 est.
+141,Nauru,$11400,2023 est.
+142,El Salvador,$11300,2023 est.
+143,American Samoa,$11200,2016 est.
+144,Niue,$11100,2021 est.
+145,Eswatini,$10600,2023 est.
+146,Jamaica,$10300,2023 est.
+147,Bolivia,$9700,2023 est.
+148,Philippines,$9700,2023 est.
+149,Jordan,$9400,2023 est.
+150,India,$9200,2023 est.
+151,Morocco,$8800,2023 est.
+152,Uzbekistan,$8800,2023 est.
+153,Laos,$8400,2023 est.
+154,Bangladesh,$8200,2023 est.
+155,Cabo Verde,$8200,2023 est.
+156,Venezuela,$7704,2018 est.
+157,Nicaragua,$7300,2023 est.
+158,Angola,$7200,2023 est.
+159,Cote d'Ivoire,$7000,2023 est.
+160,Marshall Islands,$6800,2023 est.
+161,Ghana,$6700,2023 est.
+162,Tonga,$6600,2022 est.
+163,Honduras,$6500,2023 est.
+164,Djibouti,$6500,2023 est.
+165,Kyrgyzstan,$6400,2023 est.
+166,Mauritania,$6300,2023 est.
+167,"Congo, Republic of the",$6200,2023 est.
+168,Tokelau,$6004,2017 est.
+169,Samoa,$6000,2023 est.
+170,Kenya,$5700,2023 est.
+171,Nigeria,$5700,2023 est.
+172,Pakistan,$5600,2023 est.
+173,Sao Tome and Principe,$5500,2023 est.
+174,Gaza Strip,$5300,2023 est.
+175,Burma,$5300,2023 est.
+176,West Bank,$5300,2023 est.
+177,Tuvalu,$5200,2023 est.
+178,Cambodia,$5100,2023 est.
+179,Cameroon,$4800,2023 est.
+180,Nepal,$4700,2023 est.
+181,Tajikistan,$4600,2023 est.
+182,Timor-Leste,$4600,2023 est.
+183,Senegal,$4400,2023 est.
+184,Papua New Guinea,$4200,2023 est.
+185,Guinea,$4000,2023 est.
+186,Benin,$3800,2023 est.
+187,"Micronesia, Federated States of",$3800,2023 est.
+188,Zambia,$3700,2023 est.
+189,Tanzania,$3600,2023 est.
+190,Zimbabwe,$3500,2023 est.
+191,Comoros,$3500,2023 est.
+192,Kiribati,$3200,2023 est.
+193,Vanuatu,$3000,2023 est.
+194,Rwanda,$3000,2023 est.
+195,Haiti,$2900,2023 est.
+196,"Gambia, The",$2900,2023 est.
+197,Syria,$2900,2021 est.
+198,Ethiopia,$2800,2023 est.
+199,Sudan,$2800,2023 est.
+200,Uganda,$2800,2023 est.
+201,Togo,$2800,2023 est.
+202,Solomon Islands,$2700,2023 est.
+203,Lesotho,$2500,2023 est.
+204,Yemen,$2500,2017 est.
+205,Burkina Faso,$2500,2023 est.
+206,Mali,$2500,2023 est.
+207,Guinea-Bissau,$2400,2023 est.
+208,Afghanistan,$2000,2022 est.
+209,Chad,$1800,2023 est.
+210,Malawi,$1700,2023 est.
+211,"Korea, North",$1700,2015 est.
+212,Madagascar,$1700,2023 est.
+213,Sierra Leone,$1700,2023 est.
+214,Liberia,$1600,2023 est.
+215,South Sudan,$1600,2017 est.
+216,Eritrea,$1600,2017 est.
+217,Niger,$1600,2023 est.
+218,Mozambique,$1500,2023 est.
+219,"Congo, Democratic Republic of the",$1500,2023 est.
+220,Somalia,$1500,2023 est.
+221,Central African Republic,$1000,2023 est.
+222,Burundi,$900,2023 est.
